@@ -1,0 +1,10 @@
+html
+{background-image: url("./pexels-poodles-doodles-1458925.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+
+html {
+    box-sizing: border-box solid;
+  }
+
